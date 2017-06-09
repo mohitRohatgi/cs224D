@@ -4,4 +4,4 @@ papers
 *.txt
 *.pyc
 *__MACOSX
-*datasets
+*data*
